@@ -1,5 +1,6 @@
-# PHP Telegram Bot Api
-
+# PHP Telegram BotYour user ID: 6467791488
+Current chat ID: 6467791488 Api
+7051571016:AAHtrywdUigQ61CzP8xBCWGUkYd0N6XCD-I
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/telegram-bot/api.svg?style=flat-square)](https://packagist.org/packages/telegram-bot/api)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Total Downloads](https://img.shields.io/packagist/dt/telegram-bot/api.svg?style=flat-square)](https://packagist.org/packages/telegram-bot/api)
